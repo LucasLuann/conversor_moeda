@@ -1,6 +1,6 @@
-# conversor_moeda
+# Conversor de Moeda.
 
-A new Flutter project.
+Projeto utilizando Flutter
 
 ## Getting Started
 
